@@ -1,6 +1,6 @@
 {
   "name": "zale-pomelo-robot",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "private": false,
   "dependencies": {
     "socket.io": "1.7.2",
