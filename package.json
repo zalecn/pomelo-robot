@@ -1,6 +1,6 @@
 {
-  "name": "zale-pomelo-robot",
-  "version": "0.1.9",
+  "name": "pomelo-robot-ex",
+  "version": "0.1.10",
   "private": false,
   "dependencies": {
     "socket.io": "1.7.2",
@@ -11,10 +11,6 @@
   "gitHead": "d33db82d670b7a5d21c95e15f91548f8a8ba7821",
   "description": "pomelo-robot is a simple tool to benchmark the socket.io server's performance.",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/zalecn/pomelo-robot.git"
-  },
   "keywords": [
     "pomelo",
     "client",
